@@ -4474,15 +4474,15 @@
           "secondary": []
         },
         {
-          "slug": "long-term-future-fund-ltff",
-          "title": "Long-Term Future Fund (LTFF)",
-          "url": "https://funds.effectivealtruism.org/funds/far-future",
-          "desc": "Supports projects in AI, research, and movement-building to prepare for and shape the long-term future.",
+          "slug": "transformative-ai-fund-ea-funds",
+          "title": "Transformative AI Fund (EA Funds)",
+          "url": "https://funds.effectivealtruism.org/funds/transformative-ai",
+          "desc": "EA Funds’ dedicated AI grantmaking fund (successor to the closed Long-Term Future Fund), supporting technical AI safety, governance, and field-building grants.",
           "subsection": "",
           "pricing": "free",
           "facets": [
             "safety",
-            "productivity",
+            "policy",
             "research"
           ],
           "status": "active",
