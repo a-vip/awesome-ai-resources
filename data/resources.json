@@ -270,8 +270,8 @@
         {
           "slug": "tony-blair-institute-for-global-change",
           "title": "Tony Blair Institute for Global Change",
-          "url": "https://institute.global/insights/tech-and-digitalisation/artificial-intelligence",
-          "desc": "AI – https://institute.global/insights/tech-and-digitalisation/artificial-intelligence Policy-focused analysis on AI’s global governance and economic impact, aimed at governments and policymakers.",
+          "url": "https://institute.global/",
+          "desc": "AI – https://institute.global/ Policy-focused analysis on AI’s global governance and economic impact, aimed at governments and policymakers.",
           "subsection": "Organisations and Research Institutes",
           "pricing": "free",
           "facets": [
@@ -960,7 +960,7 @@
         {
           "slug": "council-of-europe-framework-convention-on-ai",
           "title": "Council of Europe Framework Convention on AI",
-          "url": "https://www.coe.int/en/web/artificial-intelligence/the-council-of-europe-framework-convention-on-ai",
+          "url": "https://www.coe.int/en/web/artificial-intelligence",
           "desc": "The first binding international treaty on AI, signed by Council of Europe member states and key partners including the US, UK, and EU. Establishes a human rights framework for AI development and deployment.",
           "subsection": "Safety Frameworks and Guides",
           "pricing": "free",
@@ -1619,8 +1619,8 @@
         {
           "slug": "access-now",
           "title": "Access Now",
-          "url": "https://www.accessnow.org/campaign/ai-and-human-rights/",
-          "desc": "AI and Human Rights – https://www.accessnow.org/campaign/ai-and-human-rights/ International digital rights organisation examining AI’s impact on surveillance, civil liberties, and human rights globally.",
+          "url": "https://www.accessnow.org/issue/artificial-intelligence/",
+          "desc": "AI and Human Rights – https://www.accessnow.org/issue/artificial-intelligence/ International digital rights organisation examining AI’s impact on surveillance, civil liberties, and human rights globally.",
           "subsection": "Ethics and Responsible AI",
           "pricing": "free",
           "facets": [
