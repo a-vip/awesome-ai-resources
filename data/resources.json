@@ -2200,6 +2200,21 @@
           "secondary": []
         },
         {
+          "slug": "journalcompass",
+          "title": "JournalCompass",
+          "url": "https://journalcompass.com/",
+          "desc": "Free bilingual journal search across 43,499 SCI/SSCI journals with CAS分区, impact factor, review-time and APC filters, plus an AI journal-matching assistant.",
+          "subsection": "AI Search and Research Tools",
+          "pricing": "free",
+          "facets": [
+            "academic",
+            "research"
+          ],
+          "status": "active",
+          "featured": false,
+          "secondary": []
+        },
+        {
           "slug": "you-com",
           "title": "You.com",
           "url": "https://you.com/",
