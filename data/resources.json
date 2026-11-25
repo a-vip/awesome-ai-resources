@@ -3,7 +3,7 @@
   "url": "https://aviperera.com/ai-resources/",
   "repository": "https://github.com/a-vip/awesome-ai-resources",
   "total_categories": 16,
-  "total_resources": 335,
+  "total_resources": 336,
   "categories": [
     {
       "id": "ai-governance",
@@ -3088,6 +3088,21 @@
           "title": "Napkin AI",
           "url": "https://www.napkin.ai/",
           "desc": "Transforms plain prose and conceptual outlines directly into editable infographics, flowcharts, and visual diagrams.",
+          "subsection": "Design",
+          "pricing": "freemium",
+          "facets": [
+            "creative",
+            "productivity"
+          ],
+          "status": "active",
+          "featured": false,
+          "secondary": []
+        },
+        {
+          "slug": "kite",
+          "title": "Kite",
+          "url": "https://kite.new/",
+          "desc": "Collaborative design canvas where AI agents (Claude, ChatGPT, Cursor, Codex) draw real, editable layers over a hosted MCP server in the same file the team edits; copy frames to Figma or as HTML/React/Tailwind. Free plan available.",
           "subsection": "Design",
           "pricing": "freemium",
           "facets": [

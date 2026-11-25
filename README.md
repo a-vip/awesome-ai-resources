@@ -1,6 +1,6 @@
 # Awesome AI Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated directory of **335** verified AI governance, safety, technical research, coding, creative, productivity, and funding resources across **16** categories.
+> Curated directory of **336** verified AI governance, safety, technical research, coding, creative, productivity, and funding resources across **16** categories.
 
 🌐 **[Browse the Interactive Visual Repository with Screenshots, Live Search & Multi-Facet Filters →](https://aviperera.com/ai-resources/)**
 
@@ -28,7 +28,7 @@ Maintained by [Avi Perera](https://aviperera.com/) (`@a-vip`). Every link is che
 - [📊 Cutting-Edge AI Research Blogs](#research-blogs) (15)
 - [🤖 Leading AI Platforms](#ai-platforms) (19)
 - [🚀 AI Productivity Tools](#productivity-tools) (21)
-- [🎨 AI Creative Tools](#creative-tools) (32)
+- [🎨 AI Creative Tools](#creative-tools) (33)
 - [💻 AI Coding & Developer Tools](#coding-dev-tools) (36)
 - [📰 AI Newsletters & Media](#newsletters-media) (20)
 - [💡 Community & Discussion Platforms](#communities) (12)
@@ -348,6 +348,7 @@ _Frontier image, video, audio, voice, and presentation generation studios._
 - [Meshy](https://www.meshy.ai/) — Text- and image-to-3D asset generator producing textured meshes ready for Blender, Unreal Engine, and Unity. (`freemium` `creative` `developer`)
 - [Figma AI](https://www.figma.com/ai/) — AI-assisted UI prototyping, first-draft component generation, asset search, and design-system workflows inside Figma. (`freemium` `creative` `productivity`)
 - [Napkin AI](https://www.napkin.ai/) — Transforms plain prose and conceptual outlines directly into editable infographics, flowcharts, and visual diagrams. (`freemium` `creative` `productivity`)
+- [Kite](https://kite.new/) — Collaborative design canvas where AI agents (Claude, ChatGPT, Cursor, Codex) draw real, editable layers over a hosted MCP server in the same file the team edits; copy frames to Figma or as HTML/React/Tailwind. Free plan available. (`freemium` `creative` `productivity`)
 
 <a id="coding-dev-tools"></a>
 ## 💻 AI Coding & Developer Tools
